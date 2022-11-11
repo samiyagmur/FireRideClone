@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abc7258607775374ab87b79ca99b0d93, type: 3}
+  m_Name: Cd_Pool
+  m_EditorClassIdentifier: 
+  ObjectData:
+  - poolObjectType: 0
+    poolType: 0
+    PoolObject: {fileID: 6818571563318874698, guid: 26ba9c55b9a8ee14497098afc4e829e6, type: 3}
+    PoolCount: 250
+  - poolObjectType: 1
+    poolType: 0
+    PoolObject: {fileID: 6818571563318874698, guid: 201704e963d45c84baf73be20e1c8593, type: 3}
+    PoolCount: 250
+  - poolObjectType: 2
+    poolType: 0
+    PoolObject: {fileID: 4038128161741929653, guid: 8f6e19659d6d3b84b8d41864c3cc834d, type: 3}
+    PoolCount: 250
+  - poolObjectType: 3
+    poolType: 0
+    PoolObject: {fileID: 4038128161741929653, guid: 7a63c427e6b07ce4aabee376925b083a, type: 3}
+    PoolCount: 250
+  - poolObjectType: 4
+    poolType: 0
+    PoolObject: {fileID: 7774014751208747624, guid: 5d5a7c96069e8ca458c09852329dc3bc, type: 3}
+    PoolCount: 20
+  - poolObjectType: 5
+    poolType: 0
+    PoolObject: {fileID: 3993035709424853018, guid: 4dd2aed7220651f41ba7cd6590d09a16, type: 3}
+    PoolCount: 20
+  - poolObjectType: 6
+    poolType: 0
+    PoolObject: {fileID: 6216529270800616921, guid: 4f3da752a4b8f7f42a3e62c89b66a9b6, type: 3}
+    PoolCount: 10
